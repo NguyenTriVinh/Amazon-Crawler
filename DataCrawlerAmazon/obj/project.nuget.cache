@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dt0boSFVbfE=",
+  "success": true,
+  "projectFilePath": "E:\\DataCrawlerAmazon\\DataCrawlerAmazon\\DataCrawlerAmazon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.20400\\selenium.webdriver.chromedriver.131.0.6778.20400.nupkg.sha512"
+  ],
+  "logs": []
+}
